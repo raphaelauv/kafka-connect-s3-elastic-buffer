@@ -1,5 +1,11 @@
 # kafka-connect-s3-elastic-buffer
 
+NOW AVAILABLE in [RELEASE 10.1.0](https://docs.confluent.io/kafka-connect-s3-sink/current/changelog.html#version-10-1-0)
+
+thanks to https://github.com/confluentinc/kafka-connect-storage-cloud/pull/538
+
+----
+
 https://github.com/confluentinc/kafka-connect-storage-cloud/pull/320
 
 elastic-byte-buffer rebase on v10.0.0
